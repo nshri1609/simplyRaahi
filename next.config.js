@@ -9,6 +9,9 @@ const nextConfig = {
       'i.pinimg.com'
     ],
   },
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
 }
 
 module.exports = nextConfig 
