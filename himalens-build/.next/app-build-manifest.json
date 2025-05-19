@@ -1,0 +1,155 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-60ed60c210eb03b3.js",
+      "static/chunks/4bd1b696-f4aa75091cf01f26.js",
+      "static/chunks/684-64bee34e98ec67d7.js",
+      "static/chunks/main-app-625b1f6e3c585abe.js",
+      "static/chunks/app/_not-found/page-2bbeefd619e1c8fe.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-60ed60c210eb03b3.js",
+      "static/chunks/4bd1b696-f4aa75091cf01f26.js",
+      "static/chunks/684-64bee34e98ec67d7.js",
+      "static/chunks/main-app-625b1f6e3c585abe.js",
+      "static/css/36a44a818c2cdc40.css",
+      "static/chunks/app/layout-7e7afee25c497843.js"
+    ],
+    "/api/send-email/route": [
+      "static/chunks/webpack-60ed60c210eb03b3.js",
+      "static/chunks/4bd1b696-f4aa75091cf01f26.js",
+      "static/chunks/684-64bee34e98ec67d7.js",
+      "static/chunks/main-app-625b1f6e3c585abe.js",
+      "static/chunks/app/api/send-email/route-1dd9d74bc8e8e88a.js"
+    ],
+    "/Destination/Jibhi-Tirthan/page": [
+      "static/chunks/webpack-60ed60c210eb03b3.js",
+      "static/chunks/4bd1b696-f4aa75091cf01f26.js",
+      "static/chunks/684-64bee34e98ec67d7.js",
+      "static/chunks/main-app-625b1f6e3c585abe.js",
+      "static/chunks/458-f685c660aee66ae4.js",
+      "static/chunks/29-65c9087316fab3c3.js",
+      "static/chunks/app/Destination/Jibhi-Tirthan/page-e413097c5b674a3f.js"
+    ],
+    "/Destination/Tungnath-Chandrashila/page": [
+      "static/chunks/webpack-60ed60c210eb03b3.js",
+      "static/chunks/4bd1b696-f4aa75091cf01f26.js",
+      "static/chunks/684-64bee34e98ec67d7.js",
+      "static/chunks/main-app-625b1f6e3c585abe.js",
+      "static/chunks/458-f685c660aee66ae4.js",
+      "static/chunks/app/Destination/Tungnath-Chandrashila/page-6d397f63c6d049bf.js"
+    ],
+    "/Destination/Nagtibba/page": [
+      "static/chunks/webpack-60ed60c210eb03b3.js",
+      "static/chunks/4bd1b696-f4aa75091cf01f26.js",
+      "static/chunks/684-64bee34e98ec67d7.js",
+      "static/chunks/main-app-625b1f6e3c585abe.js",
+      "static/chunks/458-f685c660aee66ae4.js",
+      "static/chunks/29-65c9087316fab3c3.js",
+      "static/chunks/app/Destination/Nagtibba/page-b5ddda464741f5a6.js"
+    ],
+    "/Destination/Kasol-Kheerganga/page": [
+      "static/chunks/webpack-60ed60c210eb03b3.js",
+      "static/chunks/4bd1b696-f4aa75091cf01f26.js",
+      "static/chunks/684-64bee34e98ec67d7.js",
+      "static/chunks/main-app-625b1f6e3c585abe.js",
+      "static/chunks/458-f685c660aee66ae4.js",
+      "static/chunks/29-65c9087316fab3c3.js",
+      "static/chunks/app/Destination/Kasol-Kheerganga/page-8822f1fc39e99cc8.js"
+    ],
+    "/Destination/Mcleodganj-Triund/page": [
+      "static/chunks/webpack-60ed60c210eb03b3.js",
+      "static/chunks/4bd1b696-f4aa75091cf01f26.js",
+      "static/chunks/684-64bee34e98ec67d7.js",
+      "static/chunks/main-app-625b1f6e3c585abe.js",
+      "static/chunks/458-f685c660aee66ae4.js",
+      "static/chunks/app/Destination/Mcleodganj-Triund/page-0a259c0b9d0e33c4.js"
+    ],
+    "/Destination/[location]/page": [
+      "static/chunks/webpack-60ed60c210eb03b3.js",
+      "static/chunks/4bd1b696-f4aa75091cf01f26.js",
+      "static/chunks/684-64bee34e98ec67d7.js",
+      "static/chunks/main-app-625b1f6e3c585abe.js",
+      "static/chunks/458-f685c660aee66ae4.js",
+      "static/chunks/29-65c9087316fab3c3.js",
+      "static/chunks/app/Destination/[location]/page-bf5e0639549f8ff5.js"
+    ],
+    "/Destination/nag-tibba/page": [
+      "static/chunks/webpack-60ed60c210eb03b3.js",
+      "static/chunks/4bd1b696-f4aa75091cf01f26.js",
+      "static/chunks/684-64bee34e98ec67d7.js",
+      "static/chunks/main-app-625b1f6e3c585abe.js",
+      "static/chunks/app/Destination/nag-tibba/page-e356df6d709acb91.js"
+    ],
+    "/Destination/manali-kasol/page": [
+      "static/chunks/webpack-60ed60c210eb03b3.js",
+      "static/chunks/4bd1b696-f4aa75091cf01f26.js",
+      "static/chunks/684-64bee34e98ec67d7.js",
+      "static/chunks/main-app-625b1f6e3c585abe.js",
+      "static/chunks/458-f685c660aee66ae4.js",
+      "static/chunks/29-65c9087316fab3c3.js",
+      "static/chunks/app/Destination/manali-kasol/page-34ff1808cd39e1f7.js"
+    ],
+    "/Destination/hampta-pass-trek-chandratal/page": [
+      "static/chunks/webpack-60ed60c210eb03b3.js",
+      "static/chunks/4bd1b696-f4aa75091cf01f26.js",
+      "static/chunks/684-64bee34e98ec67d7.js",
+      "static/chunks/main-app-625b1f6e3c585abe.js",
+      "static/chunks/458-f685c660aee66ae4.js",
+      "static/chunks/29-65c9087316fab3c3.js",
+      "static/chunks/app/Destination/hampta-pass-trek-chandratal/page-e3e825d585fcd950.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-60ed60c210eb03b3.js",
+      "static/chunks/4bd1b696-f4aa75091cf01f26.js",
+      "static/chunks/684-64bee34e98ec67d7.js",
+      "static/chunks/main-app-625b1f6e3c585abe.js",
+      "static/chunks/458-f685c660aee66ae4.js",
+      "static/chunks/29-65c9087316fab3c3.js",
+      "static/chunks/app/page-0bd93156d78d6577.js"
+    ],
+    "/contact/page": [
+      "static/chunks/webpack-60ed60c210eb03b3.js",
+      "static/chunks/4bd1b696-f4aa75091cf01f26.js",
+      "static/chunks/684-64bee34e98ec67d7.js",
+      "static/chunks/main-app-625b1f6e3c585abe.js",
+      "static/chunks/458-f685c660aee66ae4.js",
+      "static/chunks/29-65c9087316fab3c3.js",
+      "static/chunks/app/contact/page-0040f370c2d158a8.js"
+    ],
+    "/Destination/valley-of-flowers/page": [
+      "static/chunks/webpack-60ed60c210eb03b3.js",
+      "static/chunks/4bd1b696-f4aa75091cf01f26.js",
+      "static/chunks/684-64bee34e98ec67d7.js",
+      "static/chunks/main-app-625b1f6e3c585abe.js",
+      "static/chunks/app/Destination/valley-of-flowers/page-30b305dec2b7ca0f.js"
+    ],
+    "/Destination/valleyofflowers/page": [
+      "static/chunks/webpack-60ed60c210eb03b3.js",
+      "static/chunks/4bd1b696-f4aa75091cf01f26.js",
+      "static/chunks/684-64bee34e98ec67d7.js",
+      "static/chunks/main-app-625b1f6e3c585abe.js",
+      "static/chunks/458-f685c660aee66ae4.js",
+      "static/chunks/29-65c9087316fab3c3.js",
+      "static/chunks/app/Destination/valleyofflowers/page-703c95936e068be6.js"
+    ],
+    "/personalised/page": [
+      "static/chunks/webpack-60ed60c210eb03b3.js",
+      "static/chunks/4bd1b696-f4aa75091cf01f26.js",
+      "static/chunks/684-64bee34e98ec67d7.js",
+      "static/chunks/main-app-625b1f6e3c585abe.js",
+      "static/chunks/458-f685c660aee66ae4.js",
+      "static/chunks/29-65c9087316fab3c3.js",
+      "static/chunks/app/personalised/page-0148ec8c031da4c9.js"
+    ],
+    "/tours/page": [
+      "static/chunks/webpack-60ed60c210eb03b3.js",
+      "static/chunks/4bd1b696-f4aa75091cf01f26.js",
+      "static/chunks/684-64bee34e98ec67d7.js",
+      "static/chunks/main-app-625b1f6e3c585abe.js",
+      "static/chunks/458-f685c660aee66ae4.js",
+      "static/chunks/29-65c9087316fab3c3.js",
+      "static/chunks/app/tours/page-da2670da4c67d9a1.js"
+    ]
+  }
+}

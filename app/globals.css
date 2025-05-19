@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@keyframes fadeInLetter {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animated-letter {
+  opacity: 0;
+  animation: fadeInLetter 6s forwards infinite;
+}
+
+

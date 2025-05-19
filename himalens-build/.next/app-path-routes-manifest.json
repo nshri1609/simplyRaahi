@@ -1,0 +1,20 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico",
+  "/api/send-email/route": "/api/send-email",
+  "/Destination/Jibhi-Tirthan/page": "/Destination/Jibhi-Tirthan",
+  "/Destination/Tungnath-Chandrashila/page": "/Destination/Tungnath-Chandrashila",
+  "/Destination/Nagtibba/page": "/Destination/Nagtibba",
+  "/Destination/Kasol-Kheerganga/page": "/Destination/Kasol-Kheerganga",
+  "/Destination/Mcleodganj-Triund/page": "/Destination/Mcleodganj-Triund",
+  "/Destination/[location]/page": "/Destination/[location]",
+  "/Destination/nag-tibba/page": "/Destination/nag-tibba",
+  "/Destination/manali-kasol/page": "/Destination/manali-kasol",
+  "/Destination/hampta-pass-trek-chandratal/page": "/Destination/hampta-pass-trek-chandratal",
+  "/page": "/",
+  "/contact/page": "/contact",
+  "/Destination/valley-of-flowers/page": "/Destination/valley-of-flowers",
+  "/Destination/valleyofflowers/page": "/Destination/valleyofflowers",
+  "/personalised/page": "/personalised",
+  "/tours/page": "/tours"
+}

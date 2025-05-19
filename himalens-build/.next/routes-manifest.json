@@ -1,0 +1,142 @@
+{
+  "version": 3,
+  "pages404": true,
+  "caseSensitive": false,
+  "basePath": "",
+  "redirects": [
+    {
+      "source": "/:path+/",
+      "destination": "/:path+",
+      "internal": true,
+      "statusCode": 308,
+      "regex": "^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"
+    }
+  ],
+  "headers": [],
+  "dynamicRoutes": [
+    {
+      "page": "/Destination/[location]",
+      "regex": "^/Destination/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPlocation": "nxtPlocation"
+      },
+      "namedRegex": "^/Destination/(?<nxtPlocation>[^/]+?)(?:/)?$"
+    }
+  ],
+  "staticRoutes": [
+    {
+      "page": "/",
+      "regex": "^/(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/(?:/)?$"
+    },
+    {
+      "page": "/Destination/Jibhi-Tirthan",
+      "regex": "^/Destination/Jibhi\\-Tirthan(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/Destination/Jibhi\\-Tirthan(?:/)?$"
+    },
+    {
+      "page": "/Destination/Kasol-Kheerganga",
+      "regex": "^/Destination/Kasol\\-Kheerganga(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/Destination/Kasol\\-Kheerganga(?:/)?$"
+    },
+    {
+      "page": "/Destination/Mcleodganj-Triund",
+      "regex": "^/Destination/Mcleodganj\\-Triund(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/Destination/Mcleodganj\\-Triund(?:/)?$"
+    },
+    {
+      "page": "/Destination/Nagtibba",
+      "regex": "^/Destination/Nagtibba(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/Destination/Nagtibba(?:/)?$"
+    },
+    {
+      "page": "/Destination/Tungnath-Chandrashila",
+      "regex": "^/Destination/Tungnath\\-Chandrashila(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/Destination/Tungnath\\-Chandrashila(?:/)?$"
+    },
+    {
+      "page": "/Destination/hampta-pass-trek-chandratal",
+      "regex": "^/Destination/hampta\\-pass\\-trek\\-chandratal(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/Destination/hampta\\-pass\\-trek\\-chandratal(?:/)?$"
+    },
+    {
+      "page": "/Destination/manali-kasol",
+      "regex": "^/Destination/manali\\-kasol(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/Destination/manali\\-kasol(?:/)?$"
+    },
+    {
+      "page": "/Destination/nag-tibba",
+      "regex": "^/Destination/nag\\-tibba(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/Destination/nag\\-tibba(?:/)?$"
+    },
+    {
+      "page": "/Destination/valley-of-flowers",
+      "regex": "^/Destination/valley\\-of\\-flowers(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/Destination/valley\\-of\\-flowers(?:/)?$"
+    },
+    {
+      "page": "/Destination/valleyofflowers",
+      "regex": "^/Destination/valleyofflowers(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/Destination/valleyofflowers(?:/)?$"
+    },
+    {
+      "page": "/_not-found",
+      "regex": "^/_not\\-found(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_not\\-found(?:/)?$"
+    },
+    {
+      "page": "/contact",
+      "regex": "^/contact(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/contact(?:/)?$"
+    },
+    {
+      "page": "/favicon.ico",
+      "regex": "^/favicon\\.ico(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/favicon\\.ico(?:/)?$"
+    },
+    {
+      "page": "/personalised",
+      "regex": "^/personalised(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/personalised(?:/)?$"
+    },
+    {
+      "page": "/tours",
+      "regex": "^/tours(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/tours(?:/)?$"
+    }
+  ],
+  "dataRoutes": [],
+  "rsc": {
+    "header": "RSC",
+    "varyHeader": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch",
+    "prefetchHeader": "Next-Router-Prefetch",
+    "didPostponeHeader": "x-nextjs-postponed",
+    "contentTypeHeader": "text/x-component",
+    "suffix": ".rsc",
+    "prefetchSuffix": ".prefetch.rsc",
+    "prefetchSegmentHeader": "Next-Router-Segment-Prefetch",
+    "prefetchSegmentSuffix": ".segment.rsc",
+    "prefetchSegmentDirSuffix": ".segments"
+  },
+  "rewriteHeaders": {
+    "pathHeader": "x-nextjs-rewritten-path",
+    "queryHeader": "x-nextjs-rewritten-query"
+  },
+  "rewrites": []
+}
